@@ -10,10 +10,11 @@ winaero.tweaker
 Obsidian.Obsidian
 Henry++.simplewall
 Cloudflare.Warp
+Git.Git
 GitHub.cli
 DuongDieuPhap.ImageGlass
 TechPowerUp.NVCleanstall
-Microsoft.PowerShell.Preview
+Microsoft.PowerShell
 SyncTrayzor.SyncTrayzor
 Klocman.BulkCrapUninstaller
 BleachBit.BleachBit
@@ -36,7 +37,7 @@ Microsoft.AppInstaller
 Microsoft.UI.Xaml.2.8
 Microsoft.VCLibs.Desktop.14
 Microsoft.WindowsTerminal
-Zen-Team.Zen-Browser.Twilight
+Zen-Team.Zen-Browser
 9N3HDTNCF6Z8
 9WZDNCRFJBBG
 9WZDNCRFHWKN
@@ -49,3 +50,9 @@ Zen-Team.Zen-Browser.Twilight
 9nmzlz57r3t7
 9mvzqvxjbq9v
 Tonec.InternetDownloadManager
+voidtools.Everything
+lin-ycv.EverythingPowerToys
+9n3hdtncf6z8
+gerardog.gsudod
+Alex313031.Thorium
+Anysphere.Cursor
